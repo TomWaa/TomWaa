@@ -3,7 +3,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
+<img align="left" style="background-color:white" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
 <img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />
 <img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" />
 <img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
